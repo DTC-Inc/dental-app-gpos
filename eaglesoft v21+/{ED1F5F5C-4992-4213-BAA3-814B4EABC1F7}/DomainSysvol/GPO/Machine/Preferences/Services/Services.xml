@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NTServices clsid="{2CFB484A-4E96-4b5d-A0B6-093D2F91E6AE}"><NTService clsid="{AB6F0B67-341F-4e51-92F9-005FBFBA1A43}" name="SysMain" image="4" changed="2023-10-25 13:41:36" uid="{E8265D30-2581-4C8C-924C-F6E1169F20C6}" userContext="0" removePolicy="0"><Properties startupType="DISABLED" serviceName="SysMain" serviceAction="STOP" timeout="30"/></NTService>
+	<NTService clsid="{AB6F0B67-341F-4e51-92F9-005FBFBA1A43}" name="AdobeARMservice" image="4" changed="2023-10-25 13:45:10" uid="{C604FF13-01E6-4216-8E75-0118B705DD27}" userContext="0" removePolicy="0"><Properties startupType="DISABLED" serviceName="AdobeARMservice" serviceAction="STOP" timeout="30"/></NTService>
+</NTServices>
